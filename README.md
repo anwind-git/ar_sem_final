@@ -1,5 +1,6 @@
-ERD диаграмма
+USERCASE диаграмма
 ![USERCASE диаграмма](./USERCASE.jpg)
+
 ERD диаграмма
 ![ERD диаграмма](./ERD.png)
 
@@ -46,5 +47,6 @@ ERD диаграмма
         id integer pk increments
         name varchar(150)
     }
+
 пользовательский интерфейс
 ![пользовательский интерфейс](./UI.jpg)
