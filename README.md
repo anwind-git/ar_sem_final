@@ -543,3 +543,5 @@
                         type: string
                         example: error
                         description: Сообщение ошибки
+
+![](./api_test.png)
